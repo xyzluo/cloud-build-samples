@@ -1,6 +1,7 @@
 {
   "name": "nodeapp",
   "version": "1.0.0",
+  "type": "module",
   "description": "my node app",
   "main": "index.js",
   "scripts": {
@@ -14,8 +15,8 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "chai": "4.3.10",
+    "chai": "5.0.3",
     "mocha": "10.2.0",
-    "supertest": "6.3.3"
+    "supertest": "6.3.4"
   }
 }
